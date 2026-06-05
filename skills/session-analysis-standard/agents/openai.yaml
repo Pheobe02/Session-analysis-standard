@@ -1,0 +1,4 @@
+interface:
+  display_name: "Session Analysis Standard"
+  short_description: "Analyze Chat4Data session CSVs"
+  default_prompt: "Use $session-analysis-standard to analyze the provided Chat4Data online session export."
